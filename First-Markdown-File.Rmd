@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+
+# **Title: "My First Markdown File" **
+# **Author: *Renzel E. Buatag* **
+# **Date: *September 21, 2021* **
+
+### This is an activity in **CMSC 197 Intro to Data Science**
